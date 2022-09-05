@@ -7,9 +7,6 @@
     "test": "echo \"No test specified\" && exit 0",
     "start": "node server.js"
   },
-  "engines": {
-    "node": "^17"
-  },
   "author": "Kokarn",
   "license": "MIT",
   "dependencies": {
