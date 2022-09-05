@@ -4,10 +4,11 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"No test specified\" && exit 0"
+    "test": "echo \"No test specified\" && exit 0",
+    "start": "node server.js"
   },
   "engines": {
-    "node": "^12.5.0"
+    "node": "^17"
   },
   "author": "Kokarn",
   "license": "MIT",
